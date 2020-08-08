@@ -16,7 +16,6 @@
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a><br />
 
-<hr>
 
 ###### Hello, my name is Renata but you can call me Naty. 
 ###### I work with systems support, but I have passion in Front End 💜. I am 27 years old 😵 and 5 of coding 💻. Still in love with League of Legends 🎮 and mother of 3 beautiful dogs 🐶
@@ -31,7 +30,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<hr>
-
-#### View my stats on Github
-![NatyR GitHub Stats](https://github-readme-stats.vercel.app/api?username=natyr&show_icons=true)
