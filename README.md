@@ -18,7 +18,7 @@
 
 
 ###### Hello, my name is Renata but you can call me Naty. 
- I work with systems support, but I have passion in Front End 💜. I am 27 years old 😵 and 5 of coding 💻. 
+###### I work with systems support, but I have passion in Front End 💜. I am 27 years old 😵 and 5 of coding 💻. 
 Still in love with League of Legends 🎮 and mother of 3 beautiful dogs 🐶
 
 <hr>
