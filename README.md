@@ -1,4 +1,4 @@
-#### Hello World, I'm Renata ( or Naty for the intimate! )<a target="_blank" href="#"><img align="left" alt="LinkdeIN" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" /></a>
+#### Hello World, I'm Renata<a target="_blank" href="#"><img align="left" alt="LinkdeIN" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" /></a>
 
 <a target="_blank" href="https://www.linkedin.com/in/renata-felix">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
