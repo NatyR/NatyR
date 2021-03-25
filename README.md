@@ -16,9 +16,9 @@
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a><br /><br />
 
- Hi, my name is Renata but you can call me Naty. 
- I work with sustention of systems, but I have passion in Front End 💜. I am 27 years old 😵 and 5 of coding 💻. 
- Still in love with League of Legends 🎮 and I am a mother of 3 beautiful dogs 🐶
+ Hi, Whats up? 
+ Well, I work with sustention of systems, but I have passion in development 💻.. I am 27 years old 😵, live in Suzano-SP and  
+ Ilove to play League of Legends 🎮. Let's play?
 
 <hr>
 
