@@ -16,8 +16,8 @@
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a><br /><br />
 
- Hi, Whats up? 
- Well, I work with sustention of systems, but I have passion in development 💻.. I am 27 years old 😵, live in Suzano-SP and  
+ Hi, whats up? 
+ Well, I work with sustention of systems, but I have passion in development 💻. I am 27 years old 😵, live in Suzano-SP and  
  Ilove to play League of Legends 🎮. Let's play?
 
 <hr>
