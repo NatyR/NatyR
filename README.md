@@ -12,6 +12,7 @@
 <a target="_blank" href="mailto:naty.bmth1@icloud.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<br />
 
  Hi, whats up? 
  Well, I work with sustention of systems, but I have passion in development 💻. I am 27 years old 😵, live in Suzano-SP and  
