@@ -14,8 +14,6 @@
 </a>
 <br />
 <br />
-<br />
-
  Hi, whats up? 
  Well, I work with sustention of systems, but I have passion in development 💻. I am 27 years old 😵, live in Suzano-SP and  
  I love to play League of Legends 🎮. Let's play?
