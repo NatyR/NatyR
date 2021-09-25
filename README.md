@@ -1,9 +1,7 @@
-<h2 align="center">Olá 👋, eu sou a Naty</h2>
+<h3 align="center">Olá 👋, eu sou a Naty</h3>
 
 - 🔭 Atualmente trabalho como Software Engineer em uma frente de Sustentação e Maintain de sistemas na **Avanade**
-
 - 🌱 No momento estou focada estudando **Microserviços e Redis**
-
 - 💬 Pergunte-me sobre **Angular e .Net**
 
 <h4 align="left">Pode me contatar via:</h4>
