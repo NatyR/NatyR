@@ -3,6 +3,8 @@
 <h4 align="left">Olá, eu sou a Naty</h4>
 
 - 💼 Software Engineer nas frentes de Sustentação e Maintain de sistemas na **Avanade**
+
+- 👩‍🎓 Formada em **Sistemas de Informação** pela UMC
  
 - 🎓 Estudando **SOLID, Clean Code e Redis**
 
