@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador da Natye">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="380px" width="380px" align="right" alt="Computador da Natye">
 
 <h4 align="left">Olá, eu sou a Naty</h4>
 
-- 💼 Software Engineer nas frente de Sustentação e Maintain de sistemas na **Avanade**
+- 💼 Software Engineer nas frentes de Sustentação e Maintain de sistemas na **Avanade**
  
 - 🦄 Estudando **SOLID, Clean Code e Redis**
 
