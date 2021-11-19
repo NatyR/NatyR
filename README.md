@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="380px" width="380px" align="right" alt="Computador da Natye">
 
-<h4 align="left">Olá, eu sou a Naty</h4>
+<h4 align="left">Olá, eu sou a Natye</h4>
 
-- 💼 Software Engineer nas frentes de Sustentação e Maintain de sistemas na **Avanade**
+- 💼 Desenvolvedora Pleno na **Vidalink**
 
 - 👩‍🎓 Formada em **Sistemas de Informação** pela UMC
  
-- 🎓 Estudando **SOLID, Clean Code e Redis**
+- 🎓 Estudando **TDD, SOLID, Clean Code e Redis**
 
 - 💌 Quer me contatar?  
 <a href="https://linkedin.com/in/renata-felix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renata-felix" height="20" width="20" /></a>
