@@ -2,7 +2,7 @@
 
 <h4 align="left">Olá, eu sou a Natye</h4>
 
-- 💼 Desenvolvedora Pleno na **Vidalink**
+- 💼 Desenvolvedora **Backend**
 
 - 👩‍🎓 Formada em **Sistemas de Informação** pela UMC
  
