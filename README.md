@@ -6,8 +6,10 @@
 
 - 👩‍🎓 Formada em **Sistemas de Informação** pela UMC
  
-- 🎓 Certificada em **SCRUM** e **DevOps**
+- 🎓 Certificada em **Scrum** e **DevOps**
 
+- ✍️ Criadora de conteúdo técnico no **[Medium](https://medium.com/@renata-felix)** com artigos de boas práticas e desenvolvimento backend
+  
 - 💌 Quer me contatar?  
 <a href="https://linkedin.com/in/renata-felix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renata-felix" height="20" width="20" /></a>
 
@@ -40,6 +42,4 @@
 </a> 
 
 </p>
-
- ![Snake animation](https://github.com/engenny/engenny/blob/output/github-contribution-grid-snake.svg)
 
